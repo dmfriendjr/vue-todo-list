@@ -1,0 +1,7 @@
+.DS_Store
+*~
+*.swp
+*.swo
+.tern-project
+apiKeys.js
+node_modules
